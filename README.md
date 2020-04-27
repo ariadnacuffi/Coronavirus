@@ -1,6 +1,3 @@
-# Coronavirus
-COVID-19 analysis about it's magnitude, spread across the globe, predictions, correlated features and it's impact on the economy 
-
 COVID-19 is spreading across the globe, and all of us are suffering the consequences. This project is focused on analysing the pandemia in different ways. 
 
 Started by examining what is the magnitude of the disease, by comparing it with every other epidemic of this century. 
